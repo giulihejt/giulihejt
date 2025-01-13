@@ -33,14 +33,13 @@
 <p> If you want to message me - do it. If you found my page, we have something in common and I could use some like-minded buddies. :relieved: </p>
 
 <details>
-<summary>Nothing to see here...</summary>
+<summary><sub>Nothing to see here...</sub></summary>
 
 <picture> <img alt="pigeon, riding a bus, minding his own damn business." src="https://i.kym-cdn.com/photos/images/newsfeed/002/690/364/3b6.jpg"> </picture>
 ---
-<sub>mind ya damn business</sub>
+<p>mind ya damn business</p>
 
 </details>
-
 
 
 <!--
