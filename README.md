@@ -2,6 +2,8 @@
 
 <picture> <img alt="picture of a chihuahua, raising his fleeky eyebrows in a charming (and mildly suggestive...) gaze" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbloggingwv.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fdogs_with_eyebrows005.jpg&f=1&nofb=1&ipt=df0ee1623b393b47adf1882704e8cbecb85965268d36b4c57edf58b92315732b&ipo=images"> </picture>
 ---
+
+<!--
 <p> Welcome, adoring fan. It's great to see that my talents are finally being recognized. </p>
 
 ## A little bit about me...
