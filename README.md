@@ -17,7 +17,7 @@ I'm a newbie. If you have feedback or advice, I'll take it.</p>
 <h2>Hobbies & Interests</h2>
 
 <h3>Board & Card Games</h3>
-<p>Chess, Gin, Cribbage – but I'll play 'em all.</p>
+<p>Chess, Gin, Cribbage - but I'll play 'em all.</p>
 
 <h3>Puzzles & Brain Teasers</h3>
 <p>I like puzzle games, even when they make me hate myself.</p>
@@ -27,7 +27,7 @@ I'm a newbie. If you have feedback or advice, I'll take it.</p>
 
 <h3>Reading & Learning</h3>
 <p>Books, articles, random rabbit holes, existential crises.<br>
-Fav book is  <em>Project Hail Mary</em> by Andy Weir. If you haven't read it, do <em>NOW</em>. Or else.</p>
+Fav book is  <em>Project Hail Mary</em> by Andy Weir. If you haven't read it, do it now!!! Or else.</p>
 
 <h3>Video Games</h3>
 <ul>
