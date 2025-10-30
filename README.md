@@ -19,11 +19,6 @@ I'm a newbie. If you have feedback or advice, I'll take it.</p>
 </details>
 
 <details>
-<summary>Puzzles & Brain Teasers</summary>
-  <p>I like puzzle games, even when they make me hate myself.</p>
-</details>
-
-<details>
 <summary>Outdoors</summary>
   <p>Light hikes, bopping around town, outdoor dining, escape rooms.</p>
 </details>
@@ -42,6 +37,7 @@ I'm a newbie. If you have feedback or advice, I'll take it.</p>
   <li>Fallout 3, 4, NV (i &lt;3 apocalypse)</li>
   <li>Mass Effect 2 (the best one)</li>
   <li>Kirby in Smash (down-B spam champion)</li>
+  <li>Tetris</li>
 </ul>
 </details>
 
