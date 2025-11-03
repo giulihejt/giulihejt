@@ -8,7 +8,7 @@
 </picture>
 
 <p>I'm just here to mess around, learn some stuff, and make some cool things along the way.<br>
-I'm a newbie. If you have feedback or advice, I'll take it.</p>
+I'm a newbie, learning JS & Py. If you have feedback or advice, I'll take it.</p>
 
 
 <h3>Hobbies & Interests</h3>
