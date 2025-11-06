@@ -1,13 +1,6 @@
-<h3>Hey there</h3>
-<picture>
-  <img 
-    alt="Hey there" 
-    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbloggingwv.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fdogs_with_eyebrows005.jpg&f=1&nofb=1&ipt=df0ee1623b393b47adf1882704e8cbecb85965268d36b4c57edf58b92315732b&ipo=images"
-    width="300" 
-  >
-</picture>
+<h3>Hi!</h3>
 
-<p>I'm just here to mess around, learn some stuff, and make some cool things along the way.<br>
+<p>I'm just here to learn how to make some and useful things.<br>
 I'm a newbie, learning JS & Py. If you have feedback or advice, I'll take it.</p>
 
 
