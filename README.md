@@ -1,7 +1,7 @@
 <h3>Hi!</h3>
 
 <p>I'm just here to learn how to make some and useful things.<br>
-I'm a newbie, learning JS & Py. If you have feedback or advice, I'll take it.</p>
+I'm a newbie. If you have feedback or advice, I'll take it.</p>
 
 
 <h3>Hobbies & Interests</h3>
